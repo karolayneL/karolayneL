@@ -51,6 +51,16 @@
 
 ### 🚀 Featured Projects (📌 Pinned)
 
+#### **🔷 [MarketFlow-Intelligence - E-commerce Data Analytics](https://github.com/karolayneL/ecommerce-customer-insights.git)**
+
+> *Python • SQLite • Pandas • Faker • Matplotlib*
+
+* Massive synthetic retail data generator with **over 1 million records**
+* Relational database modeling with **referential integrity and foreign keys**
+* **LTV (Lifetime Value) and average ticket** analysis pipeline by customer demographics
+* Statistical visualizations of **sales seasonality and purchasing behavior**
+* Optimized structure for simulating **real-world BI scenarios and decision-making**
+
 #### **🔷 [Movies API - Complete REST API](https://github.com/karolayneL/movies-api-fastapi-supabase.git)**
 > *FastAPI • Supabase • PostgreSQL • JWT • Render*
 - Production-ready API with **JWT authentication** via Supabase Auth
